@@ -10,3 +10,6 @@ I am Working as a Data Analyst in Mobile security.
 
 Tableau, SQL, Yellowfin
 
+### Some of My EDA Work
+
+[Titanic EDA](https://www.kaggle.com/taurusgourav/titanic-train-eda)
