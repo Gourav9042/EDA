@@ -3,7 +3,17 @@
 
 ### About Me : 
 
-Skilled Graduate with dynamic work experience as a Business & Data Analyst  in multiple domains. Specialised in data Visualization tools (Tableau, Yellowfin bi), databases (SQL & MySQL). Ability to write complex SQL Queries to pull data & meta data from databases, report creating, dashboards building and draw insights from data, also able to understand large data sets and technical complexities to present to business stakeholders. Worked with agile teams, end users and management to confirm business requirements. Proactively helps customer to drill down the problem as well as sharpen the requirement by suggesting alternate approaches. Knowledge of statistics and data exploring techniques using statistical python packages for analysing large datasets.
+Skilled Graduate with dynamic work experience as a Business & Data Analyst  in multiple domains. Specialised in data Visualization tools (Tableau, Yellowfin bi), databases (SQL & MySQL). Experienced in databases, report creating, dashboards building and draw insights from data, also able to understand large data sets and technical complexities to present to business stakeholders. 
+
+#### What Do I Know
+**Proficient** – Python, Tableau, Excel, Yellowfin BI, Tableau BI, Lavastorm.
+**Familiar with** – Java, C++.
+**Programming** - Data Science : Python, Pandas, Numpy, Seaborn, Scikit-learn.
+**Databases** - MYSQL, SQL.
+**Technical Machine Learning** - Classification, regression, Feature Engineering, manipulation and visualization( e.g. Matplotlib, Seaborn, Tableau).
+**Statistics** - Regression, Confident Intervals, Baysesian and Monte Carlo Methods.
+**Coding** - Python(Sckit_learn, Numpy, Pandas etc).
+
 
 This Repository's are containing my work of data science projects completed in academic and self learning.
 
