@@ -1,11 +1,10 @@
-# Gourav - Data Science Portfolio
-## Welcome to my portfolio.
+# Welcome to my portfolio.
 
-### About Me : 
+## About Me : 
 
 Skilled Graduate with dynamic work experience as a Business & Data Analyst  in multiple domains. Specialised in data Visualization tools (Tableau, Yellowfin bi), databases (SQL & MySQL). Experienced in databases, report creating, dashboards building and draw insights from data, also able to understand large data sets and technical complexities to present to business stakeholders. 
 
-#### What Do I Know
+### What Do I Know
 - **Proficient** – Python, Tableau, Excel, Yellowfin BI, Tableau BI, Lavastorm.
 - **Familiar with** – Java, C++.
 - **Programming** - Data Science : Python, Pandas, Numpy, Seaborn, Scikit-learn.
