@@ -1,6 +1,7 @@
 # Welcome to my portfolio.
 
 ## About Me : 
+![Gourav sharma](0.jpg)
 
 Skilled Graduate with dynamic work experience as a Business & Data Analyst  in multiple domains. Specialised in data Visualization tools (Tableau, Yellowfin bi), databases (SQL & MySQL). Experienced in databases, report creating, dashboards building and draw insights from data, also able to understand large data sets and technical complexities to present to business stakeholders. 
 
