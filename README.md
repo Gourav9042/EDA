@@ -18,8 +18,8 @@ This Repository's are containing my work of data science projects completed in a
 Contents
 
 EDA Project's 
-- **[Titaic](https://www.kaggle.com/taurusgourav/titanic-train-eda)
-- **[Cancer](https://www.kaggle.com/taurusgourav/eda-for-heart-datasets)
+- [Titanic](https://www.kaggle.com/taurusgourav/titanic-train-eda)
+- [Cancer](https://www.kaggle.com/taurusgourav/eda-for-heart-datasets)
 
 Machine Learning
 
