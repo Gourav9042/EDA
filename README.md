@@ -15,14 +15,16 @@ Skilled Graduate with dynamic work experience as a Business & Data Analyst  in m
 
 This Repository's are containing my work of data science projects completed in academic and self learning.
 
-
 Contents
 
-EDA
+EDA Project's -
+[Titaic](https://www.kaggle.com/taurusgourav/titanic-train-eda)
+[Cancer](https://www.kaggle.com/taurusgourav/eda-for-heart-datasets)
 
 Machine Learning
 
 Natural Language Processing
+[Sentimental Analysis](https://www.kaggle.com/taurusgourav/sentiment-analysis-on-amazon-foodreview)
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot me an email at 
 <gourav9042@live.com>
